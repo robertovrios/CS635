@@ -1,0 +1,8 @@
+#s = 15
+move #s
+turn 90
+move #s
+turn 90
+move #s
+turn 90
+move #s

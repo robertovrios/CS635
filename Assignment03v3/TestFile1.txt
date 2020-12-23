@@ -1,0 +1,9 @@
+#a = 5
+#b = 90
+move 15
+move #a
+turn #b
+move #a
+#c = 0
+turn #c
+move #a

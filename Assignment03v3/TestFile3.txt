@@ -1,0 +1,10 @@
+#a = 10
+#b = 2
+repeat 2
+move #a
+turn 90
+end
+move 10
+repeat #b
+move #a
+end
