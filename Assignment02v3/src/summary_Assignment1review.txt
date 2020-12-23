@@ -1,0 +1,13 @@
+
+The code summitted for the assignment 1 did not create a non-linear data structure as a Heap. 
+However, I emailed to the professor a second version on which I tested.
+Results:
+
+Trying to insert more items, the heap method that inserts nodes did not insert the nodes as expects.
+The Heap class only accepts integers as inputs, so does not work with other primitives as char.
+
+As consequences of the failed tests, I modified the code to accept collection of data and make 
+easy the use of collection in the tests. Moreover, I removed some helper methods that call from 
+heap to heapnode class. I have to add more tests.
+
+
